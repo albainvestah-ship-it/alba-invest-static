@@ -1,0 +1,670 @@
+
+@media (min-width: 992px) {
+.canvas_open {
+	display: none;
+}
+}
+
+@media (max-width: 1199px) {
+.mean-menu ul li {
+	margin-right: 39px;
+}
+.chose-us-content {
+	padding: 20px;
+}
+.transparent-service {
+	margin-top: -103px;
+}
+.about-img-02 .about-img-small {
+	left: 7%;
+	top: 33px;
+}
+.hero-content h2 {
+	font-size: 50px;
+}
+.fewtures-wraper {
+	padding: 15px;
+	padding-right: 15px;
+}
+.hero-content p {
+	font-size: 20px;
+}
+.about-02 .learn-more-02 a {
+	font-size: 16px;
+}
+.service-002 .service-img002 .about-img-small {
+	left: 40px;
+	top: 38px;
+}
+.cta-number-02 a {
+	padding: 0px 10px;
+}
+.service-area-03 .service-03 {
+	left: 14px !important;
+	top: 12px !important;
+}
+.bottom-content h3 {
+	margin-right: 0;
+}
+.pricing-btn {
+	width: 80%;
+}
+.cta {
+	padding-right: 50px;
+}
+.about-wraper {
+	margin-bottom: 0px;
+}
+.page-banner-area .gradean {
+	top: -192px;
+}
+.page-banner-area .gradean-default {
+	left: 307px;
+}
+.pd-right {
+	padding-right: 20px;
+}
+.page-banner-area {
+	min-height: 520px;
+}
+.blog-right-sidebar {
+	margin-left: 15px;
+}
+.banner-content .header-btn {
+	display: block;
+}
+.banner-content {
+	max-width: 150px;
+}
+}
+ 
+@media (max-width: 991px) {
+.menu.mean-menu {
+	display: none;
+}
+.header-btn {
+	display: none;
+}
+.cta-number{
+	display: block;
+}
+.menu-area.header-middle {
+	padding: 8px 0px;
+}
+.gradean {
+	left: -732px;
+}
+.rotate .gradean-default {
+	left: 665px;
+	transform: rotate(-9deg);
+	top: -529px;
+}
+.techex-hero-area {
+	height: 750px;
+}
+.mobile-logo {
+	padding: 0;
+}
+.testimonial-img {
+	left: 0;
+	top: -160px;
+}
+.testimonial-content {
+	margin-top: 150px;
+	padding: 20px;
+}
+.testimonial-single {
+	padding: 0;
+	margin-bottom: 10px;
+}
+.team-wraper:hover .team-content {
+	top: 31%;
+}
+.team-content ul li {
+	padding: 6px;
+}
+.chose-us-content {
+	padding: 40px;
+}
+.chosse-us-wrap:hover .chose-us-content {
+	top: 41%;
+}
+.cta-title {
+	margin-left: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.transparent-icon img {
+	top: -69px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.section-pd {
+	padding-top: 50px;
+}
+.experience-wraper {
+	display: flex;
+}
+/*ai solution*/
+.techex-hero-01 {
+	height: inherit;
+}
+.techex-hero-01 .header-img1 {
+	padding: 0px 40px;
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+.techex-hero-01 .hero-content {
+	margin-bottom: 25px;
+}
+.techex-hero-01 .hero-content h2 {
+	font-size: 50px;
+	line-height: 60px;
+}
+.techex-hero-01 .hero-content p {
+	font-size: 20px;
+}
+.techex-hero-01 .subtitle h4 {
+	font-size: 14px;
+}
+.about-01-small {
+	left: 20%;
+}
+.about-01-content {
+	padding-left: 0px;
+	margin-top: 30px;
+}
+.service-01-main {
+	padding: 50px;
+}
+.Solutions-area {
+	padding: 60px 0px;
+}
+.Solutions-content .play-button {
+	top: 0%;
+}
+.testimonial-bg4 {
+	padding: 20px 70px;
+}
+.testimonial-all .testimonial-content {
+	margin-top: 0;
+}
+/*cyber-security*/
+.techex-hero-02 {
+	height: inherit;
+	padding-top: 100px;
+}
+.about-img-02 .about-img-small {
+	left: 31%;
+	top: 91px;
+}
+.about-img-02 .about-img-small {
+	left: 13%;
+	top: 110px;
+}
+.about-img-02 .about-img-bro img {
+	float: none;
+}
+.service-content-002 {
+	margin-top: 30px;
+}
+.cta {
+	margin-bottom: 30px;
+}
+.header-top-menu {
+	display: none;
+}
+.mean-menu-03 {
+	padding: 14px 0px;
+}
+.service-bro-03 {
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.service-area-03 .service-03 {
+	left: 170px !important;
+	top: 48px !important;
+}
+.bottom-content h3 {
+	margin-right: 30px;
+}
+.about-wraper {
+	margin-bottom: 50px;
+}
+.chose-bg-03 {
+	padding-bottom: 300px;
+}
+.contact-btn {
+	display: block;
+}
+.blog-quite .blockquote {
+	padding-right: 0px;
+}
+.blog-details-social ul li {
+	margin-left: 0px;
+}
+.blog-post-pagenation {
+	display: block;
+}
+.new-thumb {
+	width: 100%;
+}
+.post-thumb.new-thumb.right-thumb {
+	margin-top: 20px;
+	padding-top: 20px;
+	position: relative;
+}
+.blog-post-pagenation::before {
+	display: none;
+}
+.post-thumb.new-thumb.right-thumb::before {
+	position: absolute;
+	background: #ebebeb;
+	content: "";
+	width: 100%;
+	height: 1px;
+	top: 0;
+	left: 0;
+}
+.blog-details-content .blog-coments-form .contact-btn .custom-btn {
+	width: 32%;
+}
+.blog-quite::before {
+	display: block;
+}
+.blog-details-tag-share {
+	display: flex;
+}
+.contact-form-wraper .new-contact {
+	margin-left: 0;
+}
+}
+ 
+@media (max-width: 767px) {
+.d-xs-none{
+	display: none;
+}
+#scrollUp {
+	height: 25px;
+	width: 25px;
+	right: 20px;
+	bottom: 77px;
+	font-size: 13px;
+	line-height: 27px;
+}
+.xs-4{
+	width: 40%;
+	float: left;
+}
+.xs-4-r {
+	width: 40%;
+	float: right;
+}
+.xs-2 {
+	width: 20%;
+	float: right;
+}
+.col-xs-4{
+	width: 35%;
+	float: left;
+}
+.col-xs-2{
+	width: 20%;
+	float: right;
+}
+.xs-6{
+	width: 50%;
+}
+.col-xs-6{
+	width: 45%;
+}
+.hero-content h2 {
+	font-size: 30px;
+	line-height: 40px;
+}
+.hero-content p {
+	font-size: 18px;
+}
+.section-title h2 {
+	font-size: 25px;
+	line-height: 38px;
+	font-weight: 600;
+}
+.about-info {
+	margin-bottom: 20px;
+}
+.about-img-bro img {
+	width: 100%;
+}
+.about-img-small {
+	display: none;
+}
+.about-img-small img {
+	width: 322px;
+}
+.chose-us-img img {
+	width: 100%;
+}
+.case-details {
+	padding: 14px 16px;
+	transform: translateY(-19%);
+	margin-top: 44px;
+}
+.single-studise.case-studise img {
+	width: 100%;
+}
+.cta-title h2 {
+	font-size: 19px;
+}
+.header-btn {
+	margin: 0;
+}
+.cta-number a {
+	font-size: 17px;
+}
+.gradean {
+	left: -796px;
+	top: -1065px;
+}
+.header-dropdown-cart {
+	left: -162px;
+}
+.about-info img {
+	width: 100%;
+}
+.author-contact h3 {
+	font-size: 17px;
+}
+.play-button {
+	top: 145px;
+}
+.play-button {
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.chosse-us-wrap:hover .chose-us-content {
+	top: 41%;
+}
+.cta-bg {
+	padding: 50px 26px;
+}
+.experience-wraper {
+	display: inherit;
+}
+.experience {
+	width: 65%;
+}
+.experience-text {
+	margin: 0;
+	margin-top: 20px;
+}
+.chose-us-content {
+	padding: 16px;
+}
+/*techex-01*/
+.header-social {
+	margin-right: 9px;
+}
+.header-social ul li {
+	margin: 0px 2px;
+}
+.header-right-social .search {
+	margin-left: 15px;
+}
+.header-social ul li a {
+	font-size: 14px;
+}
+.header-right-social .count {
+	top: -1px;
+	height: 13px;
+	width: 13px;
+	font-size: 10px;
+	right: 0;
+}
+.header-right-social .header-meta::before {
+	left: -3px;
+}
+.header-right-social .header-dropdown-cart {
+	left: -177px;
+}
+.techex-hero-01 .hero-content h2 {
+	font-size: 36px;
+	line-height: 45px;
+}
+.techex-hero-01 .hero-content p {
+	font-size: 17px;
+	line-height: 25px;
+}
+.about-01 .section-title {
+	margin-bottom: 50px;
+}
+.service-img2 {
+	padding-bottom: 100px;
+}
+.Solutions-content {
+	padding: 18px 38px 16px 19px;
+}
+.solution-title a {
+	font-size: 20px;
+	line-height: 25px;
+}
+.solution-small {
+	padding: 10px 11px 2px 23px;
+}
+.Solutions-content .play-button {
+	top: 52%;
+	right: 20px;
+}
+.testimonial-01 {
+	padding: 0px;
+	padding-bottom: 70px;
+	padding-top: 30px;
+}
+/*techex-02*/
+.about-img-02 .about-img-small {
+	display: block;
+}
+.single-service .service-ico {
+	margin-bottom: 10px;
+}
+.about-img-02 .about-img-small {
+	display: block;
+	top: 0px;
+	right: 0;
+	left: 0;
+	text-align: center;
+}
+.about-img-02 .play-button {
+	top: 87px;
+}
+.about-02 {
+	padding-right: 0px;
+}
+.about-02 .learn-more-02 a {
+	font-size: 15px;
+}
+.service-img3 {
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+.section-pd {
+	padding-bottom: 70px;
+}
+.service-002 .service-img002 .about-img-small {
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	text-align: center;
+}
+.service-dupli {
+	padding: 30px;
+}
+.service-content-002 p {
+	font-size: 14px;
+}
+.cta {
+	padding-right: 0px;
+}
+.cta-icon-text .numbers {
+	font-size: 22px;
+}
+.cta-border::after {;
+	left: 44%;
+}
+.cta-border::before {
+	width: 263px;
+}
+.brand-area {
+	padding: 70px 0px;
+}
+.cta-botom-bg-02 {
+	padding: 20px;
+}
+.cta-number-02 {
+	display: block;
+}
+.cta-number-02 a {
+	width: 75%;
+}
+.shape-03 {
+	display: none;
+}
+.shape-04 {
+	display: none;
+}
+.fewture-link h4 {
+	font-size: 20px;
+}
+.video-bg::after {
+	display: none;
+}
+.service-03 span {
+	margin-top: 14px;
+}
+.video-content h2 {
+	font-size: 22px;
+}
+.contact-icon i {
+	font-size: 39px;
+}
+.contact-form {
+	margin-left: 0px;
+}
+.header-btn {
+	margin-top: 20px;
+}
+.service-bro-03 {
+	display: none;
+}
+.page-banner-area .gradean {
+	display: none;
+}
+.page-banner-area {
+	min-height: 350px;
+}
+.page-about-revere .page-devider {
+	display: none;
+}
+.about-page-content {
+	padding-left: 0px;
+}
+.cta h2::before {
+	height: 102px;
+}
+.testimonial-all .testimonial-single:before{
+	display: none;
+}
+.testimonial-all .testimonial-single {
+	padding: 0;
+	margin-left: 0;
+}
+.testimonial-bg4 {
+	padding: 20px 20px;
+}
+.latest-blog .blog-title a {
+	font-size: 26px;
+}
+.lt-blog {
+	margin: 0;
+	padding: 15px 5px;
+}
+.blog-quite::before {
+	display: none;
+}
+.blog-details-tag-share {
+	display: block;
+}
+.blog-details-content .blog-coments-form .contact-btn .custom-btn {
+	width: 50%;
+}
+}
+ 
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+  .hero-content h2 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.about-img-small {
+	top: 146px;
+	display: block;
+}
+.chose-us-content {
+	padding-right: 113px;
+}
+.about-img-bro img {
+	width: 307px;
+}
+.chosse-us-wrap:hover .chose-us-content {
+	top: 50%;
+}
+.case-details {
+	top: 50%;
+	padding: 18px 55px;
+	transform: translateY(-19%);
+}
+.about-img-small {
+	top: 12px;
+	left: 0;
+}
+.Solutions-content .play-button {
+	top: 0%;
+}
+.Solutions-content {
+	padding: 36px 68px 55px 41px;
+}
+.solution-small {
+	padding: 10px 37px 24px 44px;
+}
+.cta h2::before {
+	height: 67px;
+}
+.service-bro-03 {
+	display: block;
+}
+.service-area-03 .service-03 {
+	left: 40px !important;
+	top: 39px !important;
+}
+.service-03 h2 {
+	font-size: 131px;
+	margin-bottom: 30px;
+}
+.shape-03 {
+	display: block;
+}
+.shape-04 {
+	display: block;
+}
+.video-bg::after {
+	display: block;
+	z-index: -1;
+}
+.testimonial-all .testimonial-single {
+	padding: 0;
+	margin-left: 0;
+}
+}
